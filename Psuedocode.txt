@@ -1,0 +1,6 @@
+START
+	INPUT X
+	INPUT Y
+	Sum = X = Y
+	Display Sum
+END
